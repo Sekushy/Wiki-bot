@@ -1,4 +1,4 @@
-import requests, random, csv
+import requests, random, csv, re
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -11,12 +11,15 @@ def generate_csv():
 
     final_links = []
     titles = []
+
     for i in range(0, len(tables)):
-        links = tables[i].find_all('a')
-        for link in links:
-            final_links.append(link.get('href'))
-            titles.append(link.get('title'))
-    
+        table_rows = tables[i].find_all('b')
+        for i in range(len(table_rows)):
+            links = table_rows[i].find_all('a')
+            for link in links:
+                final_links.append(link.get('href'))
+                titles.append(link.get('title'))
+
     df = pd.DataFrame()
     df['Title'] = titles
     df['Link'] = final_links
@@ -29,5 +32,6 @@ def get_random_article():
     return title, link
 
 if __name__ == "__main__":
+    #generate_csv()
     title_of_article, link_of_article = get_random_article()
     print('Your random article of the day about {}: {}'.format(title_of_article, link_of_article))
