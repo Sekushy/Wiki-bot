@@ -1,0 +1,869 @@
+INFO:TeleBot:Started polling.
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 1, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874184,\n"message":{"message_id":96,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911513,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874185,\n"message":{"message_id":97,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911514,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874186,\n"message":{"message_id":98,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911515,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874187,\n"message":{"message_id":99,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874188,\n"message":{"message_id":100,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874189,\n"message":{"message_id":101,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874190,\n"message":{"message_id":102,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911520,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874191,\n"message":{"message_id":103,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911521,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874192,\n"message":{"message_id":104,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911522,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874193,\n"message":{"message_id":105,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911523,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874194,\n"message":{"message_id":106,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911523,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874195,\n"message":{"message_id":107,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911524,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874196,\n"message":{"message_id":108,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911524,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874197,\n"message":{"message_id":109,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911540,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874198,\n"message":{"message_id":110,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911540,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874199,\n"message":{"message_id":111,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911541,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874200,\n"message":{"message_id":112,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911541,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874201,\n"message":{"message_id":113,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911542,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874202,\n"message":{"message_id":114,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911542,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874203,\n"message":{"message_id":115,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911543,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874204,\n"message":{"message_id":116,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911544,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874205,\n"message":{"message_id":117,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911544,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874206,\n"message":{"message_id":118,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911545,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874207,\n"message":{"message_id":119,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911545,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874208,\n"message":{"message_id":120,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911546,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874209,\n"message":{"message_id":121,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911546,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874210,\n"message":{"message_id":122,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911547,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874211,\n"message":{"message_id":123,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911547,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874212,\n"message":{"message_id":124,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911548,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874213,\n"message":{"message_id":125,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911548,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874214,\n"message":{"message_id":126,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911549,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874215,\n"message":{"message_id":127,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911549,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874216,\n"message":{"message_id":128,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874217,\n"message":{"message_id":129,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}},{"update_id":68874218,\n"message":{"message_id":130,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 35 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874219, 'timeout': 20} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Muggle Quidditch: https://en.wikipedia.org/wiki/Muggle_Quidditch', 'reply_to_message_id': 96} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Cornfield Bomber: https://en.wikipedia.org/wiki/Cornfield_Bomber', 'reply_to_message_id': 97} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874219,\n"message":{"message_id":131,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874220, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":132,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":97,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911514,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Cornfield Bomber: https://en.wikipedia.org/wiki/Cornfield_Bomber","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Target fixation: https://en.wikipedia.org/wiki/Target_fixation', 'reply_to_message_id': 98} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":133,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":96,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911513,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Muggle Quidditch: https://en.wikipedia.org/wiki/Muggle_Quidditch","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Thiotimoline: https://en.wikipedia.org/wiki/Thiotimoline', 'reply_to_message_id': 99} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":134,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":98,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911515,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Target fixation: https://en.wikipedia.org/wiki/Target_fixation","entities":[{"offset":54,"length":45,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Tetris effect: https://en.wikipedia.org/wiki/Tetris_effect', 'reply_to_message_id': 100} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":135,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":99,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Thiotimoline: https://en.wikipedia.org/wiki/Thiotimoline","entities":[{"offset":51,"length":42,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Monowi, Nebraska: https://en.wikipedia.org/wiki/Monowi,_Nebraska', 'reply_to_message_id': 101} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":136,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":100,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Tetris effect: https://en.wikipedia.org/wiki/Tetris_effect","entities":[{"offset":52,"length":43,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":137,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"reply_to_message":{"message_id":101,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911516,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Monowi, Nebraska: https://en.wikipedia.org/wiki/Monowi,_Nebraska","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":138,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911552,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPcBgACTjspUzOOltLsnZrF2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3AYAAk47KVMzjpbS7J2axRYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPcBgACTjspUzOOltLsnZrF2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3AYAAk47KVMzjpbS7J2axRYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":139,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911552,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPdBgACTjspUzIi8dx_Agko2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3QYAAk47KVMyIvHcfwIJKBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPdBgACTjspUzIi8dx_Agko2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3QYAAk47KVMyIvHcfwIJKBYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Amtrak paint schemes: https://en.wikipedia.org/wiki/Amtrak_paint_schemes', 'reply_to_message_id': 102} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":140,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911553,"reply_to_message":{"message_id":102,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911520,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Amtrak paint schemes: https://en.wikipedia.org/wiki/Amtrak_paint_schemes","entities":[{"offset":59,"length":50,"type":"url"}]}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Emu War: https://en.wikipedia.org/wiki/Emu_War', 'reply_to_message_id': 103} files=None
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":141,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911553,"reply_to_message":{"message_id":103,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911521,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Emu War: https://en.wikipedia.org/wiki/Emu_War","entities":[{"offset":46,"length":37,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":142,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911553,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPeBgACTjspU9FEozHG8X0X2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3gYAAk47KVPRRKMxxvF9FxYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPeBgACTjspU9FEozHG8X0X2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3gYAAk47KVPRRKMxxvF9FxYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":143,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911553,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPfBgACTjspUz_iXyggU50R2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3wYAAk47KVM_4l8oIFOdERYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPfBgACTjspUz_iXyggU50R2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD3wYAAk47KVM_4l8oIFOdERYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Kaspar Hauser: https://en.wikipedia.org/wiki/Kaspar_Hauser', 'reply_to_message_id': 104} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":144,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911554,"reply_to_message":{"message_id":104,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911522,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Kaspar Hauser: https://en.wikipedia.org/wiki/Kaspar_Hauser","entities":[{"offset":52,"length":43,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Bicycle infantry: https://en.wikipedia.org/wiki/Bicycle_infantry', 'reply_to_message_id': 105} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":145,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911555,"reply_to_message":{"message_id":105,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911523,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Bicycle infantry: https://en.wikipedia.org/wiki/Bicycle_infantry","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":146,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911555,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPgBgACTjspU8MbV75qPOqI2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4AYAAk47KVPDG1e-ajzqiBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPgBgACTjspU8MbV75qPOqI2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4AYAAk47KVPDG1e-ajzqiBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":147,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911555,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPhBgACTjspU9ctF5bCNPfC2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4QYAAk47KVPXLReWwjT3whYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPhBgACTjspU9ctF5bCNPfC2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4QYAAk47KVPXLReWwjT3whYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Braco (faith healer): https://en.wikipedia.org/wiki/Braco_(faith_healer)', 'reply_to_message_id': 106} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":148,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911556,"reply_to_message":{"message_id":106,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911523,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Braco (faith healer): https://en.wikipedia.org/wiki/Braco_(faith_healer)","entities":[{"offset":59,"length":50,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Brainfuck: https://en.wikipedia.org/wiki/Brainfuck', 'reply_to_message_id': 107} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":149,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911556,"reply_to_message":{"message_id":107,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911524,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Brainfuck: https://en.wikipedia.org/wiki/Brainfuck","entities":[{"offset":48,"length":39,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":150,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911556,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPiBgACTjspUxazNpv0W8cS2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4gYAAk47KVMWszab9FvHEhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPiBgACTjspUxazNpv0W8cS2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4gYAAk47KVMWszab9FvHEhYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":151,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911556,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPjBgACTjspU69QPeDJKBUO2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4wYAAk47KVOvUD3gySgVDhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPjBgACTjspU69QPeDJKBUO2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD4wYAAk47KVOvUD3gySgVDhYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Killer toys: https://en.wikipedia.org/wiki/Killer_toys', 'reply_to_message_id': 108} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":152,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911557,"reply_to_message":{"message_id":108,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911524,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Killer toys: https://en.wikipedia.org/wiki/Killer_toys","entities":[{"offset":50,"length":41,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about List of school pranks: https://en.wikipedia.org/wiki/List_of_school_pranks', 'reply_to_message_id': 109} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":153,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911557,"reply_to_message":{"message_id":109,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911540,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about List of school pranks: https://en.wikipedia.org/wiki/List_of_school_pranks","entities":[{"offset":60,"length":51,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":154,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911557,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPkBgACTjspU_-Rq4al3sxw2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5AYAAk47KVP_kauGpd7McBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPkBgACTjspU_-Rq4al3sxw2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5AYAAk47KVP_kauGpd7McBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":155,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911558,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPlBgACTjspU9RuNosyF8ty2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5QYAAk47KVPUbjaLMhfLchYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPlBgACTjspU9RuNosyF8ty2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5QYAAk47KVPUbjaLMhfLchYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Evil Overlord List: https://en.wikipedia.org/wiki/Evil_Overlord_List', 'reply_to_message_id': 110} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":156,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911559,"reply_to_message":{"message_id":110,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911540,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Evil Overlord List: https://en.wikipedia.org/wiki/Evil_Overlord_List","entities":[{"offset":57,"length":48,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Jandek: https://en.wikipedia.org/wiki/Jandek', 'reply_to_message_id': 111} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":158,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911559,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPmBgACTjspU0jJrTFrP0zM2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5gYAAk47KVNIya0xaz9MzBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPmBgACTjspU0jJrTFrP0zM2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5gYAAk47KVNIya0xaz9MzBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":157,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911559,"reply_to_message":{"message_id":111,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911541,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Jandek: https://en.wikipedia.org/wiki/Jandek","entities":[{"offset":45,"length":36,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":159,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911559,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPnBgACTjspUwpYozhUp6M92fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5wYAAk47KVMKWKM4VKejPRYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPnBgACTjspUwpYozhUp6M92fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD5wYAAk47KVMKWKM4VKejPRYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Homicidal sleepwalking: https://en.wikipedia.org/wiki/Homicidal_sleepwalking', 'reply_to_message_id': 112} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":160,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911560,"reply_to_message":{"message_id":112,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911541,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Homicidal sleepwalking: https://en.wikipedia.org/wiki/Homicidal_sleepwalking","entities":[{"offset":61,"length":52,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Turboencabulator: https://en.wikipedia.org/wiki/Turboencabulator', 'reply_to_message_id': 113} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":161,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911560,"reply_to_message":{"message_id":113,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911542,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Turboencabulator: https://en.wikipedia.org/wiki/Turboencabulator","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":162,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911560,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPoBgACTjspUwpI2w91NB1I2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6AYAAk47KVMKSNsPdTQdSBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPoBgACTjspUwpI2w91NB1I2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6AYAAk47KVMKSNsPdTQdSBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":163,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911560,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPpBgACTjspU7zgYWSe8xw92fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6QYAAk47KVO84GFknvMcPRYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPpBgACTjspU7zgYWSe8xw92fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6QYAAk47KVO84GFknvMcPRYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': "Your random article of the day about Cooper's Hill Cheese-Rolling and Wake: https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake", 'reply_to_message_id': 114} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":164,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911561,"reply_to_message":{"message_id":114,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911542,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Cooper\'s Hill Cheese-Rolling and Wake: https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake","entities":[{"offset":76,"length":69,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Hermesmann v. Seyer: https://en.wikipedia.org/wiki/Hermesmann_v._Seyer', 'reply_to_message_id': 115} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":165,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911562,"reply_to_message":{"message_id":115,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911543,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Hermesmann v. Seyer: https://en.wikipedia.org/wiki/Hermesmann_v._Seyer","entities":[{"offset":58,"length":49,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":166,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911562,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPqBgACTjspU-nev1h9jHPU2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6gYAAk47KVPp3r9YfYxz1BYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPqBgACTjspU-nev1h9jHPU2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6gYAAk47KVPp3r9YfYxz1BYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":167,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911562,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPrBgACTjspUzsoGS7IQuJy2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6wYAAk47KVM7KBkuyELichYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPrBgACTjspUzsoGS7IQuJy2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD6wYAAk47KVM7KBkuyELichYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Ota Benga: https://en.wikipedia.org/wiki/Ota_Benga', 'reply_to_message_id': 116} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":168,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911563,"reply_to_message":{"message_id":116,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911544,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Ota Benga: https://en.wikipedia.org/wiki/Ota_Benga","entities":[{"offset":48,"length":39,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Matshishkapeu: https://en.wikipedia.org/wiki/Matshishkapeu', 'reply_to_message_id': 117} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":169,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911563,"reply_to_message":{"message_id":117,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911544,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Matshishkapeu: https://en.wikipedia.org/wiki/Matshishkapeu","entities":[{"offset":52,"length":43,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":170,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911563,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPsBgACTjspU0BS3YowC0xu2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7AYAAk47KVNAUt2KMAtMbhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPsBgACTjspU0BS3YowC0xu2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7AYAAk47KVNAUt2KMAtMbhYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":171,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911563,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPtBgACTjspU0OkH1XjFgABK9nyshoABAEAB20AA95tAAIWBA","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7QYAAk47KVNDpB9V4xYAASsWBA","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPtBgACTjspU0OkH1XjFgABK9nyshoABAEAB20AA95tAAIWBA","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7QYAAk47KVNDpB9V4xYAASsWBA","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Flying ointment: https://en.wikipedia.org/wiki/Flying_ointment', 'reply_to_message_id': 118} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":172,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911564,"reply_to_message":{"message_id":118,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911545,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Flying ointment: https://en.wikipedia.org/wiki/Flying_ointment","entities":[{"offset":54,"length":45,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Sturla Snær Snorrason: https://en.wikipedia.org/wiki/Sturla_Sn%C3%A6r_Snorrason', 'reply_to_message_id': 119} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":173,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911564,"reply_to_message":{"message_id":119,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911545,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Sturla Sn\\u00e6r Snorrason: https://en.wikipedia.org/wiki/Sturla_Sn%C3%A6r_Snorrason","entities":[{"offset":60,"length":56,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":174,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911564,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPuBgACTjspU32MNkNZLPVO2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7gYAAk47KVN9jDZDWSz1ThYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPuBgACTjspU32MNkNZLPVO2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7gYAAk47KVN9jDZDWSz1ThYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":175,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911565,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPvBgACTjspU3HeLLcbKJcAAdnyshoABAEAB20AA95tAAIWBA","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7wYAAk47KVNx3iy3GyiXAAEWBA","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPvBgACTjspU3HeLLcbKJcAAdnyshoABAEAB20AA95tAAIWBA","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD7wYAAk47KVNx3iy3GyiXAAEWBA","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Republican marriage: https://en.wikipedia.org/wiki/Republican_marriage', 'reply_to_message_id': 120} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":176,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911566,"reply_to_message":{"message_id":120,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911546,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Republican marriage: https://en.wikipedia.org/wiki/Republican_marriage","entities":[{"offset":58,"length":49,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Beans and Bacon mine: https://en.wikipedia.org/wiki/Beans_and_Bacon_mine', 'reply_to_message_id': 121} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":177,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911566,"reply_to_message":{"message_id":121,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911546,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Beans and Bacon mine: https://en.wikipedia.org/wiki/Beans_and_Bacon_mine","entities":[{"offset":59,"length":50,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":178,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911566,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPwBgACTjspU_fGupuJphp62fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8AYAAk47KVP3xrqbiaYaehYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPwBgACTjspU_fGupuJphp62fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8AYAAk47KVP3xrqbiaYaehYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":179,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911566,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPxBgACTjspU8oVTi7-oKsi2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8QYAAk47KVPKFU4u_qCrIhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPxBgACTjspU8oVTi7-oKsi2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8QYAAk47KVPKFU4u_qCrIhYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Video-Enhanced Grave Marker: https://en.wikipedia.org/wiki/Video-Enhanced_Grave_Marker', 'reply_to_message_id': 122} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":180,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911567,"reply_to_message":{"message_id":122,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911547,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Video-Enhanced Grave Marker: https://en.wikipedia.org/wiki/Video-Enhanced_Grave_Marker","entities":[{"offset":66,"length":57,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":181,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911567,"reply_to_message":{"message_id":123,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911547,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Erd\\u0151s\\u2013Bacon number: https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number","entities":[{"offset":57,"length":61,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":182,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911567,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPyBgACTjspUy9wmOZEBN9w2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8gYAAk47KVMvcJjmRATfcBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPyBgACTjspUy9wmOZEBN9w2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8gYAAk47KVMvcJjmRATfcBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":183,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911567,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPzBgACTjspU8p4-7iD87Wq2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8wYAAk47KVPKePu4g_O1qhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPzBgACTjspU8p4-7iD87Wq2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD8wYAAk47KVPKePu4g_O1qhYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874220,\n"message":{"message_id":184,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911568,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Henley-on-Todd Regatta: https://en.wikipedia.org/wiki/Henley-on-Todd_Regatta', 'reply_to_message_id': 124} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":185,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911568,"reply_to_message":{"message_id":124,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911548,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Henley-on-Todd Regatta: https://en.wikipedia.org/wiki/Henley-on-Todd_Regatta","entities":[{"offset":61,"length":52,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Society for the Prevention of Calling Sleeping Car Porters "George": https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Calling_Sleeping_Car_Porters_%22George%22', 'reply_to_message_id': 125} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":186,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911569,"reply_to_message":{"message_id":125,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911548,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Society for the Prevention of Calling Sleeping Car Porters \\"George\\": https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Calling_Sleeping_Car_Porters_%22George%22","entities":[{"offset":106,"length":101,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":187,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911569,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP0BgACTjspU54vg3Gv62Vd2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9AYAAk47KVOeL4Nxr-tlXRYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP0BgACTjspU54vg3Gv62Vd2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9AYAAk47KVOeL4Nxr-tlXRYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":188,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911569,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP1BgACTjspUygXH929_c6O2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9QYAAk47KVMoFx_dvf3OjhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP1BgACTjspUygXH929_c6O2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9QYAAk47KVMoFx_dvf3OjhYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': "Your random article of the day about Dr. Young's Ideal Rectal Dilators: https://en.wikipedia.org/wiki/Dr._Young%27s_Ideal_Rectal_Dilators", 'reply_to_message_id': 126} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":189,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911570,"reply_to_message":{"message_id":126,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911549,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Dr. Young\'s Ideal Rectal Dilators: https://en.wikipedia.org/wiki/Dr._Young%27s_Ideal_Rectal_Dilators","entities":[{"offset":72,"length":65,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Urophagia: https://en.wikipedia.org/wiki/Urophagia', 'reply_to_message_id': 127} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":190,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911570,"reply_to_message":{"message_id":127,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911549,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Urophagia: https://en.wikipedia.org/wiki/Urophagia","entities":[{"offset":48,"length":39,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":191,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911570,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP2BgACTjspU8eMswTIjaK82fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9gYAAk47KVPHjLMEyI2ivBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP2BgACTjspU8eMswTIjaK82fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9gYAAk47KVPHjLMEyI2ivBYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":192,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911570,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP3BgACTjspU9no1Nu4CsZ72fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9wYAAk47KVPZ6NTbuArGexYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP3BgACTjspU9no1Nu4CsZ72fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD9wYAAk47KVPZ6NTbuArGexYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Tay (bot): https://en.wikipedia.org/wiki/Tay_(bot)', 'reply_to_message_id': 128} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":193,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911571,"reply_to_message":{"message_id":128,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Tay (bot): https://en.wikipedia.org/wiki/Tay_(bot)","entities":[{"offset":48,"length":39,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': "Your random article of the day about Niuas Nobles' constituency: https://en.wikipedia.org/wiki/Niuas_Nobles%27_constituency", 'reply_to_message_id': 129} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":194,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911571,"reply_to_message":{"message_id":129,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Niuas Nobles\' constituency: https://en.wikipedia.org/wiki/Niuas_Nobles%27_constituency","entities":[{"offset":65,"length":58,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":195,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911571,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP4BgACTjspU6tXi3RZXlaT2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-AYAAk47KVOrV4t0WV5WkxYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP4BgACTjspU6tXi3RZXlaT2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-AYAAk47KVOrV4t0WV5WkxYE","file_size":698118}}}''
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":196,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911572,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP5BgACTjspU9unEeUq5uI02fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-QYAAk47KVPbpxHlKubiNBYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP5BgACTjspU9unEeUq5uI02fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-QYAAk47KVPbpxHlKubiNBYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Tsu Station: https://en.wikipedia.org/wiki/Tsu_Station', 'reply_to_message_id': 130} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":197,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911572,"reply_to_message":{"message_id":130,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911550,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Tsu Station: https://en.wikipedia.org/wiki/Tsu_Station","entities":[{"offset":50,"length":41,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 610083270} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Ketchup as a vegetable: https://en.wikipedia.org/wiki/Ketchup_as_a_vegetable', 'reply_to_message_id': 131} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":198,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911573,"reply_to_message":{"message_id":131,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911551,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Ketchup as a vegetable: https://en.wikipedia.org/wiki/Ketchup_as_a_vegetable","entities":[{"offset":61,"length":52,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":199,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911573,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAP6BgACTjspU7SROA7a362G2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-gYAAk47KVO0kTgO2t-thhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAP6BgACTjspU7SROA7a362G2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD-gYAAk47KVO0kTgO2t-thhYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '610083270', 'text': 'Your random article of the day about Trimethylaminuria: https://en.wikipedia.org/wiki/Trimethylaminuria', 'reply_to_message_id': 184} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":200,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911574,"reply_to_message":{"message_id":184,"from":{"id":610083270,"is_bot":false,"first_name":"Simion","last_name":"Alin","username":"Simikk","language_code":"ro"},"chat":{"id":610083270,"first_name":"Simion","last_name":"Alin","username":"Simikk","type":"private"},"date":1566911568,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Trimethylaminuria: https://en.wikipedia.org/wiki/Trimethylaminuria","entities":[{"offset":56,"length":47,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874221, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874221,\n"message":{"message_id":201,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":148220374,"first_name":"Andrei","username":"Oshiino","type":"private"},"date":1566911817,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '148220374', 'text': 'Your random article of the day about Judaism in Rugrats: https://en.wikipedia.org/wiki/Judaism_in_Rugrats', 'reply_to_message_id': 201} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":202,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":148220374,"first_name":"Andrei","username":"Oshiino","type":"private"},"date":1566911818,"reply_to_message":{"message_id":201,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":148220374,"first_name":"Andrei","username":"Oshiino","type":"private"},"date":1566911817,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Judaism in Rugrats: https://en.wikipedia.org/wiki/Judaism_in_Rugrats","entities":[{"offset":57,"length":48,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874222, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874222,\n"message":{"message_id":203,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912234,"new_chat_participant":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"new_chat_member":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"new_chat_members":[{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874223, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874223,\n"message":{"message_id":204,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912240,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '-103455249', 'text': 'Welcome!', 'reply_to_message_id': 204} files=None
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874224, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":205,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912240,"reply_to_message":{"message_id":204,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912240,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]},"text":"Welcome!"}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874224,\n"message":{"message_id":206,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912248,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874225, 'timeout': 20} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '-103455249', 'text': 'Your random article of the day about 11 foot 8 Bridge: https://en.wikipedia.org/wiki/11_foot_8_Bridge', 'reply_to_message_id': 206} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":207,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912248,"reply_to_message":{"message_id":206,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912248,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about 11 foot 8 Bridge: https://en.wikipedia.org/wiki/11_foot_8_Bridge","entities":[{"offset":55,"length":46,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874225,\n"message":{"message_id":208,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912256,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': -103455249} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":209,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912256,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAPaBQACejMoU2jfZx4YF7k22fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD2gUAAnozKFNo32ceGBe5NhYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAPaBQACejMoU2jfZx4YF7k22fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAAD2gUAAnozKFNo32ceGBe5NhYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '-103455249', 'text': 'Your random article of the day about Mythical national championship: https://en.wikipedia.org/wiki/Mythical_national_championship', 'reply_to_message_id': 208} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":210,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912257,"reply_to_message":{"message_id":208,"from":{"id":148220374,"is_bot":false,"first_name":"Andrei","username":"Oshiino","language_code":"en"},"chat":{"id":-103455249,"title":"Familie","type":"group","all_members_are_administrators":true},"date":1566912256,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Mythical national championship: https://en.wikipedia.org/wiki/Mythical_national_championship","entities":[{"offset":69,"length":60,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874226, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874226,\n"message":{"message_id":211,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913533,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '149590568', 'text': 'Welcome!', 'reply_to_message_id': 211} files=None
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874227, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":212,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913533,"reply_to_message":{"message_id":211,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913533,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]},"text":"Welcome!"}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874227,\n"message":{"message_id":213,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913544,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874228, 'timeout': 20} files=None
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '149590568', 'text': 'Your random article of the day about Spreuerhofstraße: https://en.wikipedia.org/wiki/Spreuerhofstra%C3%9Fe', 'reply_to_message_id': 213} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":214,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913544,"reply_to_message":{"message_id":213,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913544,"text":"/article","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Spreuerhofstra\\u00dfe: https://en.wikipedia.org/wiki/Spreuerhofstra%C3%9Fe","entities":[{"offset":55,"length":51,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[{"update_id":68874228,\n"message":{"message_id":215,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913551,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}]}''
+DEBUG:TeleBot:Received 1 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendVideo params={'chat_id': 149590568} files={'video': <_io.BufferedReader name='Media/Thor_another.gif'>}
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":216,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913551,"animation":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","duration":0,"width":275,"height":295,"thumb":{"file_id":"AAQEAAOUBgACk-8oU2fngbtpuHjT2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAADlAYAApPvKFNn54G7abh40xYE","file_size":698118},"document":{"file_name":"Thor_another.gif.mp4","mime_type":"video/mp4","thumb":{"file_id":"AAQEAAOUBgACk-8oU2fngbtpuHjT2fKyGgAEAQAHbQAD3m0AAhYE","file_size":30969,"width":275,"height":295},"file_id":"CgADBAADlAYAApPvKFNn54G7abh40xYE","file_size":698118}}}''
+DEBUG:TeleBot:Request: method=post url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/sendMessage params={'chat_id': '149590568', 'text': 'Your random article of the day about Cox–Zucker machine: https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine', 'reply_to_message_id': 215} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":{"message_id":217,"from":{"id":955533429,"is_bot":true,"first_name":"Intresto","username":"IntrestoBot"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913552,"reply_to_message":{"message_id":215,"from":{"id":149590568,"is_bot":false,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","language_code":"ro"},"chat":{"id":149590568,"first_name":"M\\u0103d\\u0103 \\u264f\\ufe0f \\ud83c\\udf19","username":"steponmebakura","type":"private"},"date":1566913551,"text":"/another","entities":[{"offset":0,"length":8,"type":"bot_command"}]},"text":"Your random article of the day about Cox\\u2013Zucker machine: https://en.wikipedia.org/wiki/Cox%E2%80%93Zucker_machine","entities":[{"offset":57,"length":56,"type":"url"}]}}''
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
+DEBUG:TeleBot:The server returned: 'b'{"ok":true,"result":[]}''
+DEBUG:TeleBot:Received 0 new updates
+DEBUG:TeleBot:Task complete
+DEBUG:TeleBot:Received task
+DEBUG:TeleBot:Request: method=get url=https://api.telegram.org/bot955533429:AAFlNb9wDSedAFEp3sf2kJ8-qWyE89cI6AM/getUpdates params={'offset': 68874229, 'timeout': 20} files=None
